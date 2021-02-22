@@ -1,0 +1,170 @@
+@media (max-width:1024px) {
+
+    .about .col-md-12 h2 {
+        text-align: center;
+    }
+    .about .col-md-12 p{
+        padding: 0;
+    }
+    .feature-section .col-md-3 h4{
+        font-size: 17px;
+        text-align: center;
+    }
+    .feature-section .col-md-3 p {
+        font-size: 12px;
+        font-size: 11px;
+        text-align: center;
+        margin: auto;
+    }
+    .cheif-remendation {
+        padding: 40px;
+    }
+    .cheif-remendation-content p {
+      
+        text-align: start;
+    }
+    .what-is-burgerhouse-content p {
+        width: auto;
+    }
+    .btn ul button {
+        width: 90px;
+        height: 30px;
+    }
+    
+    .second-6-button .btn ul button{
+        width: 90px;
+    }
+    .subscription .ne{
+        width: 135px;
+    }
+    .subscription .el{
+        width: 135px;
+    }
+    .subscription button {
+        width: 150px;
+        text-align: center;
+        font-size: 16px;
+    }
+    .our-partners-list-logo .our-partners-list img {
+        width: 100px;
+        height: 35px;
+    }
+    .latest-post-img p {
+        font-size: 10px;
+        width: auto;
+    }
+    .latest-post-img button {
+        margin-top: 30px;
+    }
+    .are-you-hungry p{
+        width: auto;
+    }
+    .are-you-hungry h4{
+        font-size: 23px;
+    }
+
+}
+
+
+
+
+@media (max-width:600px) {
+    .eight-pictures {
+        width: 1000px;
+        margin: auto;
+        height: auto;
+        padding: 50px;
+    }
+    .carousel{
+        width: 580px;
+        height:auto;
+    }
+    .carousel-caption img{
+        height: 150px;
+        width: auto;
+    }
+    .carousel-item img{
+        vertical-align: middle;
+        height: 250px;
+        width: auto;
+    }
+    .feature-section p{
+        padding: 10px;
+    }
+    .feature-section .col-md-3{
+        padding: 10px 0;
+    }
+    .feature-section .col-md-3 h4{
+        text-align: center;
+        margin: auto;
+    }
+    .feature-section {
+        padding-top: 40px;
+        padding-bottom: 0px;
+        width: 100%;
+        height: auto;
+    }
+    .about{
+        margin: 0 0;
+        width: 100%;
+        height: auto;
+    }
+    .about .col-md-12 p{
+        padding: 0px 0px;
+    }
+    .cheif-remendation-img {
+        padding-bottom: 20px;
+        margin-bottom: 0;
+    }
+    .cheif-remendation-content{
+        padding: 20px 56px;
+    }
+   .eight-pictures {
+    padding: 30px 20px;
+    height:100%;
+    width: auto;
+}
+.eight-pictures .col-md-3{
+    text-align: center;
+}
+.eight-pictures .col-md-3 img {
+    width: 250px;
+    height: 150px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.burger-house-other-services .burger-house-other-services-img{
+    text-align:center;
+    margin: auto;
+     padding: 0px 0px;
+  }
+  .burger-house-other-services .burger-house-other-services-content{
+    height:auto;
+    width: 100%;
+    padding: 10px 0;
+    text-align:center;
+    margin-bottom: 20px;
+}
+.burger-house-other-services-img{
+    padding-right: 0px;
+}
+.latest-post{
+    height: 100%;
+}
+.latest-post-img{
+    margin-bottom: 10px;
+}
+.latest-post-img button{
+    margin-top: 12px;
+}
+.meet-our-team-chef{
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 0px 0;
+    height: auto;
+}
+.btn ul button{
+    margin-bottom: 10px;
+}
+}

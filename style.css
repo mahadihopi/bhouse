@@ -1,0 +1,3887 @@
+/*header part======================*/
+
+body{
+    max-width:1330px
+}
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*carousel slider=====================*/ 
+
+ 
+
+.carousel{
+
+    width: 100%;
+    height: auto;
+}
+.carousel-caption{
+    margin-bottom: 70px;
+    color:#FFFFFF;
+}
+.carousel-caption img{}
+.carousel-caption h3{}
+.carousel-caption p{}
+.carousel-caption .btn{
+    width: 300px;
+    height: 50px;
+    margin: auto;
+}
+
+
+/*About==================================*/
+
+
+.about{
+    text-align: center;
+    margin: 40px 0;
+    width: 100%;
+    height: auto;
+}
+.about .col-md-12 h2{ 
+    text-align:center;
+    padding: 20px;
+    font-weight: 800;
+}
+.about .col-md-12 p {
+    padding: 5px 20px;
+    font-size: 10px;
+    
+    margin: auto;
+
+    font-size: 11px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+/*feature-section=================*/
+
+
+.feature-section{
+    padding: 40px 20px;
+    width: 100%;
+    height: auto;
+}
+.feature-section .col-md-3{
+    text-align: center;
+
+}
+.feature-section .col-md-3 i{
+    padding: 20px;
+    border: 1px solid #FF0000;
+    border-radius: 50%;
+    color: #FF0000;
+}
+.feature-section .col-md-3 i:hover{
+    padding: 20px;
+    border-radius: 50%;
+    color: white;
+    background-color: #FF0000;
+}
+.feature-section .coffee img {
+    padding: 0px;
+    height: 105px;
+    width: 150px;
+}
+
+.feature-section .col-md-3 p{
+    font-size: 11px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
+.feature-section .col-md-3 h4{
+    text-align: center;
+    margin: auto;
+}
+
+/*cheif-remendation================*/
+
+.cheif-remendation{
+   margin: auto;
+   height: 100%;
+   width: 100%;
+   text-align: center;
+}
+.cheif-remendation-img{
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+.cheif-remendation-img img{
+    width: 290px;
+    height: 300px;
+    padding: 10px;
+    border: 2px solid tomato;
+    text-align: start;
+}
+.cheif-remendation-content{
+    text-align:start;
+    padding: 40px 119px;
+}
+.cheif-remendation-content h3{
+   text-align: start;
+   font-weight: 700;
+}
+.cheif-remendation-content p {
+    text-align: start;
+    font-size: 12px;
+    width:auto;
+
+    font-size: 11px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+.cheif-remendation-content button{
+   
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 10px;
+    margin-top: 5px;
+
+}
+
+/*what-is-burgerhouse====================*/
+
+.what-is-burgerhouse{
+     background-color: #191d20;
+     height:100%;
+     width: 100%;
+   
+}
+.what-is-burgerhouse-content{
+    margin-top: 20px;
+    color: #FDFDFD;
+    text-align: center;
+    margin:auto;
+    padding: 60px 0;
+}
+.what-is-burgerhouse-content h3{
+    font-weight: 700;
+}
+.what-is-burgerhouse-content p{
+    font-size: 12px;
+    width:auto;
+
+    font-size: 11px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+.what-is-burgerhouse-content button{
+    background-color: #191D20;
+    color: #FFFFFF;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin-top: 5px;
+}
+
+
+.what-is-burgerhouse-photo{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.what-is-burgerhouse-photo img{
+    width: 300px;
+    height:300px;
+    margin: auto;
+    
+}
+
+/*highlights-in-our-gallery-content=====================*/
+
+.highlights-in-our-gallery-content{
+     height: 125px;
+     width: 100%;
+     padding: 30px 0;
+     background-color: #fff;
+}
+.highlights-in-our-gallery-content h3{
+    font-weight: 700;
+}
+.highlights-in-our-gallery-content p {
+    font-size: 11px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+
+    font-size: 11px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+/*6-Button==============================*/
+
+
+.btn{
+    width: 100%;
+    height: 70px;
+}
+.btn ul{
+    padding: 20px 40px;
+}
+.btn ul button{
+    display: inline-block;
+    color: black ;
+    border: 1px solid #F72D1E;
+    background-color: #fff;
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+}
+.btn ul button:hover{
+    color: #FFFFFF;
+    background-color: #F72D1E;
+}
+
+/*8-pictures=========================*/
+
+
+.eight-pictures {
+    padding: 30px 20px;
+    width: 1000px;
+    margin: auto;
+    height: 500px;
+}
+.eight-pictures .col-md-3{
+    padding: 15px 0;
+}
+.eight-pictures .col-md-3 img{
+    width: 100%;
+    height: 200px;
+    padding: 5px ;
+    border-radius: 10px;
+}
+
+/*veiw-gallery====================*/
+.view-gallery{
+    width: 100%;
+    height: auto;
+}
+.view-gallery button{
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: #FFFFFF;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*see-our-menu=====================*/
+
+.see-our-menu-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.see-our-menu-content h3{
+   font-weight: 700;
+}
+.see-our-menu-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+
+   font-size: 11px;
+   width: 400px;
+   text-align: center;
+   margin: auto;
+}
+
+/*2nd-6-button==============================*/
+
+
+.second-6-button .btn{
+   width: 100%;
+   height: 70px;
+}
+.second-6-button .btn ul{
+   padding: 20px 40px;
+}
+.second-6-button .btn ul button{
+   display: inline-block;
+   color: black ;
+   border: 1px solid #F72D1E;
+   background-color: #fff;
+   width: 100px;
+   height: 30px;
+   font-size: 12px;
+}
+.second-6-button .btn ul button:hover{
+   color: #FFFFFF;
+   background-color: #F72D1E;
+}
+
+/*table========================*/
+.table{
+    widows: 100%;;
+    margin: auto;
+    margin-top: 50px;
+    height: auto;
+}
+tr{
+    background-color:#ECECEC;
+    padding: 10px 0;
+    transition: .6s;
+}
+tr:hover td{
+    background-color: #333739;
+    color: #FFFFFF;
+}
+tbody{
+    padding: 40px 0;
+}
+tbody .tr .td{
+
+}
+
+/*load-more======================*/
+.load-more{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+}
+.load-more button{
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+}
+
+
+/*burger-house-other-services==============*/
+
+.burger-house-other-services{
+    background-color: #191D20;
+    color: #FFFFFF;
+    width: 100%;
+    height: auto;
+}
+.burger-house-other-services-content{
+    height: 150px;
+    width: 100%;
+    margin-top: 30px;
+}
+.burger-house-other-services-content h3{
+   font-weight: 700;
+   padding: 5px 0;
+}
+.burger-house-other-services-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+   padding: 5px 0;
+
+   font-size: 11px;
+   width: 400px;
+   text-align: center;
+   margin: auto;
+}
+.burger-house-other-services .burger-house-other-services-img{
+    text-align:end;
+    padding-bottom: 20px;
+    margin: auto;
+    
+  }
+  .burger-house-other-services .burger-house-other-services-img img{
+      width: 300px;
+      height: 270px;
+  }
+  .burger-house-other-services .burger-house-other-services-content{
+      height: 200px;
+      width: 100%;
+      padding: 10px 40px;
+      text-align:start;
+  
+  }
+.burger-house-other-services-content button{
+    background-color:#191D20;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    width: 250px;
+    height: 40px;
+}
+.burger-house-other-services-content h4{
+    font-weight: 700;
+    font-weight: 700;
+    padding: 5px 0;
+
+    font-size: 11px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+.burger-house-other-services-content p{
+    font-size: 11px;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    padding: 5px 0;
+}
+/*meet-our-team========================*/
+
+.meet-our-team{
+    height:auto;
+    width: 100%;
+    padding: 40px 0;
+    background-color: #ECECEC;
+    text-align: center;
+    padding-top: 50px;
+}
+.meet-our-team h3{
+   font-weight: 700;
+}
+.meet-our-team p{
+   font-size: 10px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+
+   font-size: 11px;
+   width: 400px;
+   text-align: center;
+   margin: auto;
+}
+.meet-our-team-chef{
+    width: 100%;
+    margin: auto;
+    padding: 50px 0;
+    height: auto;
+}
+.meet-our-team img {
+    width: 150px;
+    height: 150px;
+    border: 1px solid tomato;
+    border-radius: 50%;
+}
+.meet-our-team h4 {
+    font-size: 15px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+.meet-our-team h6 {
+    font-size: 11px;
+}
+
+/*progress-bar==================*/
+
+.progress-bar {
+    background-color:#ECECEC;
+    color: #A8A6A6;
+    padding: 15px 0px;
+    width: 100%;
+    height: auto;
+}
+.p-bar{
+    padding-right: 50px;
+}
+.progress-bar h2{
+    font-size: 10px;
+}
+.progress{
+    background-color: #FF0000;
+}
+.progress-bar-img{
+  
+}
+.progress-bar-img img{
+    width: 250px;
+    height: 250px;
+}
+
+/*latest-post==============*/
+
+.latest-post {
+    background-color: #191D20;
+    color: #FFFFFF;
+    width: 100%;
+    height: 600px;
+}
+.latest-post-content{
+    height: 100%;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+}
+.latest-post-content h3{
+   font-weight: 700;
+   padding: 5px 0;
+}
+.latest-post-content p {
+   font-size: 11px;
+   width: 100%;
+   text-align: center;
+   margin: auto;
+   padding: 5px 0;
+
+
+   font-size: 11px;
+   width: 400px;
+   text-align: center;
+   margin: auto;
+}
+.latest-post-img{
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    height: 382px;
+    transition: .4s;
+}
+.latest-post-img:hover{
+    background-color: #fff;
+    color: #191D20;
+}
+.latest-post-img h4{
+    font-weight: 700;
+    padding: 10px 0;
+}
+.latest-post-img p{
+    font-size: 11px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
+.latest-post-img img{
+    width: 100%;
+    height: 220px;
+}
+.latest-post-img button{
+    background-color: #191D20;
+    color:#FFFFFF ;
+    border: 1px solid #ffffff;
+    width: 130px;
+    height: 30px;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 25px;
+}
+.latest-post-img button:hover{
+    background-color: #F72D1E;
+    color: #FFFFFF;
+    border: 1px solid #F72D1E;
+}
+
+
+/*our-satisfied-customers==================*/
+
+.our-satisfied-customers{
+    width: 100%;
+    height: auto;
+}
+
+.our-satisfied-customers-content{
+    height:100%;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+    margin: auto;
+    text-align: center;
+}
+.our-satisfied-customers-content h3{
+   font-weight: 700;
+   text-align: center;
+}
+.our-satisfied-customers-content p {
+   font-size: 11px;
+   width: 400px;
+   text-align: center;
+   margin: auto;
+}
+
+/*img-text=========================*/
+
+
+.img-text{
+    padding: 30px 0;
+    margin: auto;
+    width: 50%;
+}
+.img-tex .img-text-part{
+    border: 1px solid #A8A6A6;
+}
+.img-text img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+ }
+ .img-text .img-text-img{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+ }
+ .img-text .img-text-content{
+     height: 100%;
+     width: 100%;
+ }
+.img-text .img-text-content h3{
+    text-align: center;
+    padding: 5px 0;
+}
+.img-text .img-text-content h6{
+    text-align: center;
+}
+.img-text .img-text-content p{
+    font-size: 13px;
+    font-size: 11px;
+    width: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+/*are-you-hungry======================*/
+
+.are-you-hungry{
+    background-color:#191D20;
+    width: 100%;
+    height: 100%;
+    padding: 10px 10px;
+}
+.are-you-hungry-content{
+    text-align: center;
+    margin: auto;
+}
+.are-you-hungry h4 {
+    color: #FFFFFF;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px 0;
+}
+.are-you-hungry p {
+    color: #FFFFFF;
+    font-size: 12px;
+    text-align: center;
+   
+    padding-bottom: 10px;
+    font-size: 11px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+.are-you-hungry .btn{
+    margin: auto;
+}
+.are-you-hungry button{
+    background-color:#191D20;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    width: 180px;
+    height: 30px;
+    font-size: 13px;
+}
+.are-you-hungry button:hover{
+    background-color: #F72D1E;
+    color: #FFFFFF;
+    border: 1px solid #F72D1E;
+}
+
+/*our-partners=====================*/
+.our-partners{
+    width: 100%;
+    height: auto;
+}
+.our-partners-content{
+    height: 100%;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.our-partners-content h3{
+   font-weight: 700;
+}
+.our-partners-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+
+   font-size: 11px;
+   width: 400px;
+   text-align: center;
+   margin: auto;
+}
+
+/*our-partners-list====================*/
+
+
+.our-partners-list-logo{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+}
+.our-partners-list-logo .our-partners-list{
+
+
+}
+.our-partners-list-logo .our-partners-list img{
+   width: 160px;
+   height: 50px;
+   border: 2px solid #A8A6A6;
+}
+
+/*subscription=========================*/
+
+.subscription{
+    margin: auto;
+    text-align: center;
+    background-color: #333739;
+    color: #FFFFFF;
+    height: auto;
+    width: 100%;
+    padding-top: 10px;
+}
+.subscription .newsletter{
+    padding: 10px 20px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #333739;
+}
+.subscription .name{
+    text-align: center;
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #333739;
+}
+.subscription .email{
+    text-align: center;
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #333739;
+}
+.subscription .btn{
+    padding-top: 10px;
+}
+.subscription button{
+    background-color: #333739;
+    color: #45494C;
+    height: 35px;
+    width:160px;
+    border: 1px solid #45494C;
+    text-align: center;
+    padding: 5px 20px;
+    background-color: #333739;
+}
+.subscription button:hover{
+    background-color: #FF1200;
+    color: #FFFFFF;
+    border: 1px solid #FF1200;
+}
+.subscription .ne{
+    background-color: #333739;
+    padding: 5px 10px;
+    border: .5px solid  #45494C;
+    color: #45494C;
+}
+.subscription .el{
+    background-color: #333739;
+    padding: 5px 10px;
+    border: .5px solid  #45494C;
+    color: #45494C;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+
+/*right-reservation======================*/
+.right{
+    height: 100px;
+    width: 100%;
+   
+}
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding: 40px 0;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+
+
+/*           404 not found            */
+
+
+
+/*header part======================*/
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: black;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*not-found==================*/
+
+.not-found{
+    width: 100%;
+    height: 400px;
+    background-color: #000001;
+    text-align: center;
+    
+}
+.not-found-content{
+    margin-top: 50px;
+}
+.not-found h4{
+    font-size: 30px;
+}
+.not-found h1{ 
+    font-weight: 900;
+    font-size: 140px;
+    padding: 0 40px;
+    color: #FFFFFF;
+}
+.not-found h3{
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-top: -48px;
+}
+.not-found p{
+    padding: 40px 0;
+    font-size: 20px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{
+    text-align: center;
+    
+}
+.bon-appetit-content h2{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    font-weight: 400;
+}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          about page          */
+
+/*header part======================*/
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: black;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*see-our-menu=====================*/
+
+.see-our-menu-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.see-our-menu-content h3{
+   font-weight: 700;
+}
+.see-our-menu-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+/*what-is-burgerhouse====================*/
+
+.what-is-burgerhouse{
+    background-color: #F9F9F9;
+    height:100%;
+    width: 100%;
+  
+}
+.what-is-burgerhouse-content{
+   margin-top: 20px;
+   color: black;
+   text-align: center;
+   margin:auto;
+   padding: 60px 0;
+}
+.what-is-burgerhouse-content h3{
+   font-weight: 700;
+}
+.what-is-burgerhouse-content p{
+   font-size: 12px;
+   width:auto;
+}
+.what-is-burgerhouse-content button{
+   background-color: #191D20;
+   color: #FFFFFF;
+   border: 1px solid white;
+   padding: 5px 10px;
+   margin-top: 5px;
+}
+
+
+.what-is-burgerhouse-photo{
+   height: 100%;
+   width: 100%;
+   text-align: center;
+}
+.what-is-burgerhouse-photo img{
+   width: 300px; 
+   height:250px;
+   margin-top: 20px;                                
+}
+
+/*why-choose-us===============*/
+
+
+.why-choose-us{
+    background-color:black ;
+    width: 100%;
+
+}
+.why-choose-us-img{
+    width:50%;
+    height: 442px;
+}
+.why-choose-us-img img{
+    margin-left: 90px;
+    background-color: black;
+}
+.why-choose-us-content {
+    width: 50%;
+    height: 442px;
+    margin-top: 20px;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 60px 0;
+    background-color: black;
+   
+}
+.why-choose-us-content-text{
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+}
+.why-choose-us-content h3{
+    font-weight: 700
+}
+.why-choose-us-content p{
+    font-size: 12px;
+    width:auto;
+}
+
+/*meet-our-team========================*/
+
+.meet-our-team{
+    height:auto;
+    width: 100%;
+    padding: 40px 0;
+    background-color: #ECECEC;
+    text-align: center;
+}
+.meet-our-team h3{
+   font-weight: 700;
+}
+.meet-our-team p{
+   font-size: 10px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+.meet-our-team-chef{
+    width: 100%;
+    margin: auto;
+    padding: 35px 0;
+    height: auto;
+}
+.meet-our-team img {
+    width: 150px;
+    height: 135px;
+    border: 1px solid tomato;
+    border-radius: 50%;
+}
+.meet-our-team h4 {
+    font-size: 15px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+.meet-our-team h6 {
+    font-size: 11px;
+}
+
+/*progress-bar==================*/
+
+.progress-bar {
+    background-color:#ECECEC;
+    color: #A8A6A6;
+    padding: 5px 0px;
+    width: 100%;
+    height: auto;
+}
+.p-bar{
+    padding-right: 50px;
+}
+.progress-bar h2{
+    font-size: 10px;
+}
+.progress{
+    background-color: #FF0000;
+}
+.progress-bar-img{
+  
+}
+.progress-bar-img img{
+    width: 250px;
+    height: 250px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          blog page            */
+
+/*header part======================*/
+
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: #FFFFFF;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*see-our-menu=====================*/
+
+.see-our-menu-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.see-our-menu-content h3{
+   font-weight: 700;
+}
+.see-our-menu-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+
+/*latest-post==============*/
+
+.latest-post {
+    background-color:#FFFFFF ;
+    color:   #191D20 ;
+    
+}
+.latest-post-content{
+    height: 100%;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+}
+.latest-post-content h3{
+   font-weight: 700;
+   padding: 5px 0;
+}
+.latest-post-content p {
+   font-size: 11px;
+   width: 100%;
+   text-align: center;
+   margin: auto;
+   padding: 5px 0;
+}
+.sixbutton .latest-post-img{
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    height: 382px;
+    transition: .2s;
+    border: .4px solid rgb(182, 177, 177);
+}
+.sixbutton .latest-post-img:hover{
+    background-color: #F72D1E;
+    border: 1px solid #F72D1E;
+    color: #ffffff;
+}
+.sixbutton .latest-post-img img{
+    
+}
+.sixbutton h4{
+    font-weight: 700;
+    padding: 10px 0;
+}
+.sixbutton p{
+    font-size: 12px;
+}
+.sixbutton img{
+    width: 100%;
+    height: 220px;
+}
+.sixbutton button{
+    background-color: #191D20;
+    color:#FFFFFF ;
+    border: 1px solid #ffffff;
+    width: 130px;
+    height: 30px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.sixbutton button:hover{
+    background-color: #F72D1E;
+    color: #FFFFFF;
+    border: 1px solid #F72D1E;
+}
+
+/*2nd-6-button==============================*/
+ 
+
+.second-6-button .btn{
+   width: 100%;
+   height: 70px;
+}
+.second-6-button .btn ul{
+   padding: 20px 40px;
+}
+.second-6-button .btn ul button{
+   display: inline-block;
+   color: black ;
+   border: 1px solid #F72D1E;
+   background-color: #fff;
+   width: 100px;
+   height: 30px;
+   font-size: 12px;
+}
+.second-6-button .btn ul button:hover{
+   color: #FFFFFF;
+   background-color: #F72D1E;
+}
+
+/*load-more======================*/
+.load-more{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.load-more button{
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          contact page            */
+
+/*header part======================*/
+
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: #FFFFFF;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*About==================================*/
+
+
+.about{
+    text-align: center;
+    margin: 40px 0;
+    width: 100%;
+    height: auto;
+}
+.about .col-md-12 h2{
+    padding: 20px;
+    font-weight: 800;
+}
+.about .col-md-12 p {
+    padding: 5px 20px;
+    font-size: 10px;
+    
+    margin: auto;
+}
+/*feature-section=================*/
+
+
+.feature-section{
+    padding: 40px 20px;
+    width: 100%;
+    height: auto;
+}
+.feature-section .col-md-3{
+    text-align: center;
+}
+.feature-section .col-md-3 i{
+    padding: 20px;
+    border: 1px solid #FF0000;
+    border-radius: 50%;
+    color: #FF0000;
+}
+.feature-section .col-md-3 i:hover{
+    padding: 20px;
+    border-radius: 50%;
+    color: white;
+    background-color: #FF0000;
+}
+.feature-section .coffee img {
+    padding: 0px;
+    height: 105px;
+    width: 150px;
+}
+.feature-section .col-md-3 p{
+    font-size: 12px;
+}
+.feature-section .col-md-3 h4{}
+.blank{
+    height: 200px;
+    background-color: #CACACA;
+}
+
+/*blank=====================*/
+
+.blank{
+    border-top: .5px solid  #333739;
+}
+
+/*use-the-contact-form================*/
+
+.use-the-contact-form{
+    background-color: #191D20;
+}
+
+.use-the-contact-form-content{ 
+    color: #ffff;
+    padding: 20px 30px;
+    margin-left: 150px;
+}
+.use-the-contact-form-content h3{
+    font-weight: 400;
+}
+.use-the-contact-form-content input{
+    padding: 5px 5px;
+    padding-right: 75px;
+    background-color: #191D20;
+    border: 1px solid  #494D50;
+    color: #494D50;
+    margin-top: 15px;
+    text-align:left;
+}
+.use-the-contact-form-content .message{
+    padding: 40px 5px;
+    padding-right: 75px;
+    text-align: start;
+}
+.use-the-contact-form-content button{
+    text-align: center;
+    border: 1px solid whitesmoke;
+    background-color:  #191D20;
+    padding: 5px 30px;
+    margin-top: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+.use-the-contact-form-img{}
+.use-the-contact-form-img img{
+    margin-right: 50px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+    border-top: .2px solid whitesmoke;
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          gallery page           */
+
+/*header part======================*/
+
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: #FFFFFF;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*see-our-menu=====================*/
+
+.see-our-menu-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.see-our-menu-content h3{
+   font-weight: 700;
+}
+.see-our-menu-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+/*highlights-in-our-gallery-content=====================*/
+
+.highlights-in-our-gallery-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.highlights-in-our-gallery-content h3{
+   font-weight: 700;
+}
+.highlights-in-our-gallery-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+/*6-Button==============================*/
+
+
+.btn{
+    width: 100%;
+    height: 70px;
+}
+.btn ul{
+    padding: 20px 40px;
+}
+.btn ul button{
+    display: inline-block;
+    color: black ;
+    border: 1px solid #F72D1E;
+    background-color: #fff;
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+}
+.btn ul button:hover{
+    color: #FFFFFF;
+    background-color: #F72D1E;
+}
+
+/*6-pictures=========================*/
+
+
+.six-pictures {
+    padding: 20px 20px;
+    width: 1000px;
+    margin: auto;
+    height: auto;
+}
+.six-pictures .col-md-4{}
+.six-pictures .col-md-4 img{
+    width: 100%;
+    height: 200px;
+    padding: 10px 10px;
+    position: relative;
+    z-index: -1;
+}
+.six-pictures .col-md-4 img::after{
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color:#F72D1E;
+    z-index: 1;
+}
+.six-pictures .col-md-4 img::after:hover{
+   
+}
+
+/*load-more======================*/
+.load-more{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+}
+.load-more button{
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          gallery post           */
+
+
+
+/*header part======================*/
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h6{
+    color: black;
+    font-weight: 700;
+}
+
+/*meet-our-technique========================*/
+
+.meet-our-technique{
+    height:auto;
+    width: 100%;
+    padding: 40px 0;
+    background-color: #ECECEC;
+    text-align: center;
+}
+.meet-our-technique h3{
+   font-weight: 700;
+}
+.meet-our-technique p{
+   font-size: 10px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+.picture{
+   width: 100%;
+}
+.picture .pic{
+   width: 80%;
+   padding: 20px 30px;
+   margin: auto;
+}
+.picture .pic img{
+   height: 500px;
+   width: 800px;
+   border: .5px solid whitesmoke;
+   border-radius: 5px;
+}
+
+/*Welcome to burgerhouse==================================*/
+
+
+.about{
+    text-align: center;
+    margin: 40px 0;
+    width: 100%;
+    height: auto;
+}
+.about .col-md-12 h2{
+    padding: 20px;
+    font-weight: 800;
+}
+.about .col-md-12 p {
+    padding: 5px 20px;
+    font-size: 10px;
+    
+    margin: auto;
+}
+/*about_______feature-section=================*/
+
+
+.feature-section{
+    padding: 40px 20px;
+    width: 100%;
+    height: auto;
+}
+.feature-section .col-md-3{
+    text-align: center;
+}
+.feature-section .col-md-3 img{
+    height:108px;
+    width: 150px;
+    padding: 20px;
+    border: 1px solid silver;
+    border-radius: 50%;
+}
+.feature-section .coffee img {
+    padding: 0px;
+    height: 105px;
+    width: 150px;
+}
+.feature-section  p{
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+}
+.feature-section .col-md-3 h4{}
+
+
+/*Recipe-from-the-chef===============*/
+
+
+.Recipe-from-the-chef{
+    background-color:black ;
+    width: 100%;
+    height: auto;
+    margin: auto;
+
+}
+.Recipe-from-the-chef-img{
+    width:50%;
+    height: 442px;
+}
+.Recipe-from-the-chef-img img{
+    margin-left: 90px;
+    background-color: black;
+}
+.Recipe-from-the-chef-content {
+    width: 50%;
+    height: 442px;
+    margin-top: 20px;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 60px 0;
+    background-color: black;
+   
+}
+.Recipe-from-the-chef-content-text{
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+}
+.Recipe-from-the-chef-content h3{
+    font-weight: 700
+}
+.Recipe-from-the-chef-content p{
+    font-size: 12px;
+    width:auto;
+}
+
+/*contact====================*/
+
+.contact{
+    background-color: #333739;
+    height: 100px;
+}
+.contact h4{
+    color: #FFFFFF;
+    padding-top:25px;
+}
+.contact button{
+    margin-top:25px;
+    width: 150px;
+    height: 35px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.contact button:hover{
+    background-color: #FF1200;
+    color: #FFFFFF;
+    background: 1px solid #FF1200;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          home page            */
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*carousel slider=====================*/ 
+
+ 
+
+.carousel{
+
+    width: 100%;
+    height: auto;
+}
+.carousel-caption{
+    margin-bottom: 70px;
+    color:#FFFFFF;
+}
+.carousel-caption img{}
+.carousel-caption h3{}
+.carousel-caption p{}
+.carousel-caption .btn{
+    width: 300px;
+    height: 50px;
+    margin: auto;
+}
+
+/*cheif-remendation================*/
+
+.cheif-remendation{
+    margin: 25px 0;
+    height: 100%;
+    width: 100%;
+    margin-left: 150px;
+    padding: 20px 0;
+ }
+ .cheif-remendation-img{
+     padding-left: 70px;
+ }
+ .cheif-remendation-img img{
+     width: 290px;
+     height: 300px;
+     padding: 10px ;
+     border: 2px solid tomato;
+     text-align: start;
+ }
+ .cheif-remendation-content{
+     text-align:start;
+     padding: 40px 60px;
+ }
+ .cheif-remendation-content h3{
+    text-align: start;
+    font-weight: 700;
+ }
+ .cheif-remendation-content p {
+     text-align: start;
+     font-size: 12px;
+     width:auto;
+ }
+ .cheif-remendation-content button{
+     color: tomato;
+     background-color: #ffff;
+     border: 1px solid tomato;
+     padding: 5px 10px;
+     margin-top: 5px;
+ }
+ 
+ /*what-is-burgerhouse====================*/
+ 
+ .what-is-burgerhouse{
+      width: 100%;
+      height: 100%;
+      padding: 20px 0;
+ }
+ .what-is-burgerhouse-content{
+     margin-top: 20px;
+     color: black;
+     text-align: start;
+     margin-left: 50px;
+     padding: 60px 0;
+ }
+ .what-is-burgerhouse-content h3{
+     font-weight: 700;
+ }
+ .what-is-burgerhouse-content p{
+     font-size: 12px;
+     width:auto;
+ }
+ .what-is-burgerhouse-content button{
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 10px;
+    margin-top: 5px;
+ }
+.what-is-burgerhouse-photo{
+     height: 100%;
+     width: 100%;
+     text-align: center;
+ }
+.what-is-burgerhouse-photo img{
+     width: 320px;
+     height:280px;
+     margin: auto;
+ }
+ /*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: #FFFFFF;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*latest-post==============*/
+
+.latest-post {
+    background-color: #191D20;
+    color: #FFFFFF;
+    width: 100%;
+    height: 600px;
+}
+.latest-post-content{
+    height: 100%;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+}
+.latest-post-content h3{
+   font-weight: 700;
+   padding: 5px 0;
+}
+.latest-post-content p {
+   font-size: 11px;
+   width: 100%;
+   text-align: center;
+   margin: auto;
+   padding: 5px 0;
+}
+.latest-post-img{
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    height: 382px;
+    transition: .4s;
+}
+.latest-post-img:hover{
+    background-color: #fff;
+    color: #191D20;
+}
+.latest-post-img h4{
+    font-weight: 700;
+    padding: 10px 0;
+}
+.latest-post-img p{
+    font-size: 12px;
+}
+.latest-post-img img{
+    width: 100%;
+    height: 220px;
+}
+.latest-post-img button{
+    background-color: #191D20;
+    color:#FFFFFF ;
+    border: 1px solid #ffffff;
+    width: 130px;
+    height: 30px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.latest-post-img button:hover{
+    background-color: #F72D1E;
+    color: #FFFFFF;
+    border: 1px solid #F72D1E;
+}
+
+/*our-satisfied-customers==================*/
+
+.our-satisfied-customers{
+    width: 100%;
+    height: auto;
+}
+
+.our-satisfied-customers-content{
+    height:100%;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+    margin: auto;
+    text-align: center
+}
+.our-satisfied-customers-content h3{
+   font-weight: 700;
+   text-align: center;
+}
+.our-satisfied-customers-content p {
+   font-size: 11px;
+   width: 100%;
+   text-align: center;
+   margin: auto;
+}
+.img-text{
+    width: 80%;
+    padding: 30px 0;
+    margin: auto;
+}
+.img-tex .img-text-part{
+    border: 1px solid #A8A6A6;
+}
+.img-text img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+ }
+ .img-text .img-text-img{
+     margin: auto;
+     text-align: end;
+     width: 100%;
+     height: 100%;
+ }
+ .img-text .img-text-content{
+     height: 100%;
+     width: 100%;
+ }
+.img-text .img-text-content h3{}
+.img-text .img-text-content h6{}
+.img-text .img-text-content p{
+    font-size: 13px;
+}
+
+/*book-a-table==================*/
+
+.book-a-table{
+    width: 100%;
+    background-color: #333739;
+}
+
+.form-site{
+   
+    padding: 20px 10px;
+    height: 300px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+.form-site h4{
+    font-weight: 500;
+}
+form{
+    margin: auto;
+}
+form input{
+    padding: 5px 15px;
+    margin-bottom: 10px;
+}
+form .bt{
+   width: 150px;
+   padding:5px 10px;
+   text-align: center;
+   transition: .1s;
+}
+form .bt:hover{
+   background-color: #FF1200;
+   color: #FDFDFD;
+}
+
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          menu page          */
+
+/*header part======================*/
+
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: black;
+    font-weight: 700;
+    margin:auto;
+}
+
+/*see-our-menu=====================*/
+
+.see-our-menu-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #fff;
+}
+.see-our-menu-content h3{
+   font-weight: 700;
+}
+.see-our-menu-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+/*2nd-6-button==============================*/
+
+
+.second-6-button .btn{
+   width: 100%;
+   height: 70px;
+}
+.second-6-button .btn ul{
+   padding: 20px 40px;
+}
+.second-6-button .btn ul button{
+   display: inline-block;
+   color: black ;
+   border: 1px solid #F72D1E;
+   background-color: #fff;
+   width: 100px;
+   height: 30px;
+   font-size: 12px;
+}
+.second-6-button .btn ul button:hover{
+   color: #FFFFFF;
+   background-color: #F72D1E;
+}
+
+/*table========================*/
+.table{
+    widows: 100%;;
+    margin: auto;
+    margin-top: 50px;
+    height: auto;
+}
+tr{
+    background-color:#ECECEC;
+    padding: 10px 0;
+    transition: .6s;
+}
+tr:hover td{
+    background-color: #333739;
+    color: #FFFFFF;
+}
+tbody{
+    padding: 40px 0;
+}
+tbody .tr .td{
+
+}
+
+/*load-more======================*/
+.load-more{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.load-more button{
+    color: tomato;
+    background-color: #ffff;
+    border: 1px solid tomato;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          reservation part            */
+
+/*header part======================*/
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: black;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*book-a-table==================*/
+
+.book-a-table{
+    width: 100%;
+    background-color: #F9F9F9;
+}
+
+.form-site{
+    padding: 20px 10px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+}
+.form-site p{
+    width: 400px;
+    margin: auto;
+}
+.form-cbox{
+    background-color: #FFFFFF;
+    padding: 30px 10px;
+    height: 280px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+}
+.form-site h4{
+    font-weight: 500;
+}
+form{
+    margin: auto;
+}
+form input{
+    padding: 4px 10px;
+    margin-bottom: 10px;
+}
+form .bt{
+   width: 150px;
+   padding:5px 10px;
+   text-align: center;
+   transition: .1s;
+   margin-top: 15px;
+}
+form .bt:hover{
+   background-color: #FF1200;
+   color: #FDFDFD;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+    margin: 10px 0;
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          service page           */
+
+/*header part======================*/
+
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: black;
+    font-weight: 700;
+    margin:auto;
+}
+
+/*what-is-burgerhouse====================*/
+
+.what-is-burgerhouse{
+    height:100%;
+    width: 100%;
+    padding: 30px 0;
+}
+.what-is-burgerhouse-content{
+   margin-top: 20px;
+   color:black;
+   text-align: center;
+   margin:auto;
+   padding: 60px 0;
+}
+.what-is-burgerhouse-content h3{
+   font-weight: 700;
+}
+.what-is-burgerhouse-content p{
+   font-size: 12px;
+   width:auto;
+}
+.what-is-burgerhouse-content button{
+   background-color: #191D20;
+   color: #FFFFFF;
+   border: 1px solid white;
+   padding: 5px 10px;
+   margin-top: 5px;
+}
+.what-is-burgerhouse-photo{
+   height: 100%;
+   width: 100%;
+   text-align: center;
+}
+.what-is-burgerhouse-photo img{
+   width: 300px;
+   height:300px;
+   margin: auto;
+}
+/*burger-house-other-services==============*/
+
+.burger-house-other-services{
+    background-color: #191D20;
+    color: #FFFFFF;
+    width: 100%;
+    height: auto;
+}
+.burger-house-other-services-content{
+    height: 150px;
+    width: 100%;
+    margin-top: 30px;
+}
+.burger-house-other-services-content h3{
+   font-weight: 700;
+   padding: 5px 0;
+}
+.burger-house-other-services-content p {
+   font-size: 11px;
+   width: 600px;
+   text-align: center;
+   margin: auto;
+   padding: 5px 0;
+}
+.burger-house-other-services .burger-house-other-services-img{
+  text-align:end;
+  padding-bottom: 20px;
+  margin: auto;
+  
+}
+.burger-house-other-services .burger-house-other-services-img img{
+    width: 300px;
+    height: 270px;
+}
+.burger-house-other-services .burger-house-other-services-content{
+    height: 200px;
+    width: 100%;
+    padding: 10px 40px;
+    text-align:start;
+
+}
+.burger-house-other-services-content button{
+    background-color:#191D20;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    width: 250px;
+    height: 40px;
+}
+.burger-house-other-services-content h4{
+    font-weight: 700;
+    font-weight: 700;
+    padding: 5px 0;
+}
+.burger-house-other-services-content p{
+    font-size: 11px;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    padding: 5px 0;
+}
+
+/*feature-section=================*/
+
+
+.feature-section{
+    padding: 40px 20px;
+    width: 100%;
+    height: auto;
+    background-color: #ECECEC;
+}
+.feature-section .col-md-3{
+    text-align: center;
+}
+.feature-section .col-md-3 i{
+    padding: 20px;
+    border: 1px solid #FF0000;
+    border-radius: 50%;
+    color: #FF0000;
+}
+.feature-section .col-md-3 i:hover{
+    padding: 20px;
+    border-radius: 50%;
+    color: white;
+    background-color: #FF0000;
+}
+.feature-section .coffee img {
+    padding: 0px;
+    height: 105px;
+    width: 150px;
+}
+.feature-section .col-md-3 p{
+    font-size: 12px;
+}
+.feature-section .col-md-3 h4{}
+
+/*progress-bar==================*/
+
+.progress-bar {
+    background-color:#ECECEC;
+    color: #A8A6A6;
+    padding: 5px 0px;
+    width: 100%;
+    height: auto;
+}
+.p-bar{
+    padding-right: 50px;
+}
+.progress-bar h2{
+    font-size: 10px;
+}
+.progress{
+    background-color: #FF0000;
+}
+.progress-bar-img{
+  
+}
+.progress-bar-img img{
+    width: 250px;
+    height: 250px;
+}
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+   
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          sign in page            */
+
+/*header part======================*/
+
+.header{
+    background-color: #FFFFFF;
+}
+.menu-left{}
+.menu-left ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-left ul li{
+    display: inline-block;
+}
+.menu-left ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-left ul li a:hover{}
+.menu-left ul li a i{
+    font-size: 5px;
+}
+
+
+/*menu middle part=================*/
+
+.menu-middle {
+    z-index: 1;
+    text-align: center;
+}
+.menu-middle img{
+    width: 220px;
+    height: auto;
+    
+}
+ 
+
+
+/*menu right part===========*/
+
+.menu-right{}
+.menu-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.menu-right ul li{
+    display: inline-block;
+   
+}
+.menu-right ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #847A7A;
+    
+}
+.menu-right ul li a:hover{}
+.menu-right ul li a i{
+    font-size: 10px;
+}
+
+/*see-what-food====================*/
+
+
+.see-what-food{
+    background:url(./img/pexels-dana-tentis-750073.jpg) center no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.see-what-food .see-what-food-heading {
+    padding: 40px 0;
+}
+.see-what-food .see-what-food-heading h3{
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.see-what-food .see-what-food-heading button {
+    color: black;
+    background-color: black;
+    border: 1px solid #ffff;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+/*book-a-table==================*/
+
+.book-a-table{
+    width: 100%;
+    background-color: #191D20;
+}
+
+.form-site{
+    padding: 20px 10px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+}
+.form-site p{
+    width: 400px;
+    margin: auto;
+}
+.form-cbox{
+    padding: 30px 10px;
+    height: 280px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+}
+.form-cbox .fb{
+    font-size: 11px;
+}
+.form-cbox .twitter{
+    font-size: 11px;
+}
+.form-cbox .fa-facebook-square{
+    color:#335191;
+    font-size: 18px;
+    padding: 5px;
+}
+.form-cbox .fa-twitter-square{
+    color: #42ABD3;
+    font-size: 18px;
+    padding: 5px;
+}
+.form-cbox .fb{
+    color: #335191;
+   
+}
+.form-cbox .twitter{
+   color: #42ABD3;
+}
+.form-cbox .fb a{
+    color: white;
+    background-color: #3B5998;
+    text-decoration: none;
+    padding: 4px 3px;
+}
+.form-cbox .twitter a{
+    color: white;
+    background-color: #48BBE7;
+    text-decoration: none;
+    padding: 4px 3px;
+}
+.form-group{
+ 
+}
+.form-group .form-control{
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    background-color: #191D20;
+    color: #5D6265;
+}
+.form-site h4{
+    color: #ffffff;
+}
+form .bt{
+   width: 150px;
+   padding:5px 10px;
+   text-align: center;
+   transition: .1s;
+   margin-top: 15px;
+}
+form .bt:hover{
+   background-color: #FF1200;
+   color: #FDFDFD;
+}
+.form-check{
+    font-size: 12px;
+    color: #FFFFFF;
+}
+.forgot p{
+    font-size: 13px;
+
+}
+.forgot a{
+    
+}
+form .btn{
+    padding: 0 23px;
+}
+form button{
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    background-color:  #191D20;
+    width: 160px ;
+    height:30px;
+    margin: auto;
+}
+
+
+/*bon-appetit=================*/
+
+.bon-appetit{
+    background: url(./img/burger\ recomendation.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+    width: 100%;
+    margin: 10px 0;
+}
+.bon-appetit-content{}
+.bon-appetit-content h2{}
+.bon-appetit-content h3{}
+.bon-appetit-content .btn{
+    padding: 20px 0;
+}
+.bon-appetit-content button{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    border: .5px solid  #ffff;
+    background-color: none;
+    color: #3a8dcc;
+}
+.bon-appetit-content{
+    height: 125px;
+    width: 100%;
+    padding: 30px 0;
+    margin: auto;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.bon-appetit-content h3{
+    font-weight: 700;
+}
+/*footer=========================*/
+
+.right-reservation .fa-copyright{
+    margin: auto;
+    padding-top: 25px;
+    font-size: 13px;
+}
+
+.footer-right ul{
+    text-align:center;
+    margin-top: 20px;
+}
+.footer-right ul li{
+    display: inline-block;
+}
+.footer-right ul li a{
+    text-decoration: none;
+    color:  #333739;
+    padding: 0px 7px;
+    font-size: 12px;
+    border-right: 1px solid black;
+    transition: .2s;
+}
+.footer-right ul li:last-child a{
+    border: none;
+}
+.footer-right ul li a:hover{
+    color:  #FF1200;
+}
+
+/*          THE END            */
